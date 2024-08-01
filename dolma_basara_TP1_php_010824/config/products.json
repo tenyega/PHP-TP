@@ -1,0 +1,298 @@
+[
+    {
+        "id" : 1,
+        "designation" : "mouse", 
+        "categorie" : "peripherique", 
+        "modele" : "Logitech13", 
+        "prix" : 38, 
+        "promotion" : true, 
+        "image" : "mouse.png"
+    },
+    {
+        "id" : 2, 
+        "designation" : "phone", 
+        "categorie" : "technologie", 
+        "modele" : "M213", 
+        "prix" : 959, 
+        "promotion" : false, 
+        "image" : "phone.png"
+    },
+    {
+        "id" : 3, 
+        "designation" : "keyboard", 
+        "categorie" : "peripherique", 
+        "modele" : "Corsair K55", 
+        "prix" : 59, 
+        "promotion" : true, 
+        "image" : "keyboard.png"
+    },
+    {
+        "id" : 4, 
+        "designation" : "computer", 
+        "categorie" : "peripherique", 
+        "modele" : "Dell 24", 
+        "prix" : 149, 
+        "promotion" : false,
+        "image" : "computer.jpg"
+    },
+    {
+        "id" : 5, 
+        "designation" : "printer",
+         "categorie" : "peripherique", 
+         "modele" : "HP LaserJet", 
+         "prix" : 199, 
+         "promotion" : true, 
+         "image" : "printer.jpg"
+        },
+    {
+        "id" : 6, 
+        "designation" : "tablet", 
+        "categorie" : "technologie", 
+        "modele" : "iPad Pro", 
+        "prix" : 799, 
+        "promotion" : false, 
+        "image" : "tablet.png"
+    },
+    {
+        "id" : 7, 
+        "designation" : "laptop", 
+        "categorie" : "technologie", 
+        "modele" : "MacBook Air", 
+        "prix" : 999, 
+        "promotion" : true, 
+        "image" : "laptop.png"
+    },
+    {
+        "id" : 8, 
+        "designation" : "headphones", 
+        "categorie" : "audio", 
+        "modele" : "Sony WH-1000XM4", 
+        "prix" : 299, 
+        "promotion" : true, 
+        "image" : "headphones.png"
+    },
+    {
+        "id" : 9, 
+        "designation" : "speaker", 
+        "categorie" : "audio", 
+        "modele" : "JBL Charge 4", 
+        "prix" : 149, 
+        "promotion" : false, 
+        "image" : "speaker.jpg"
+    },
+    {
+        "id" : 10, 
+        "designation" : "camera", 
+        "categorie" : "photo", 
+        "modele" : "Canon EOS R5", 
+        "prix" : 3899, 
+        "promotion" : true,
+         "image" : "camera.png"
+    },
+    {
+        "id" : 11, 
+        "designation" : "lens", 
+        "categorie" : "photo", 
+        "modele" : "Canon RF 50mm", 
+        "prix" : 499, 
+        "promotion" : false, 
+        "image" : "lens.jpg"
+    },
+    {
+        "id" : 12,
+        "designation" : "camera_bag", 
+        "categorie" : "photo", 
+        "modele" : "Lowepro ProTactic", 
+        "prix" : 159, 
+        "promotion" : true, 
+        "image" : "camera_bag.jpg"
+    },
+    {
+        "id" : 13, 
+        "designation" : "kitchen", 
+        "categorie" : "maison",
+        "modele" : "Thermomix TM6", 
+        "prix" : 1299, 
+        "promotion" : true, 
+        "image" : "kitchen.jpg"
+    },
+    {
+        "id" : 14, 
+        "designation" : "vacuum_cleaner", 
+        "categorie" : "maison", 
+        "modele" : "Dyson V11", 
+        "prix" : 599, 
+        "promotion" : false,
+         "image" : "vacuum_cleaner.jpg"
+    },
+    {
+        "id" : 15, 
+        "designation" : "cafe machine", 
+        "categorie" : "maison", 
+        "modele" : "Nespresso Vertuo", 
+        "prix" : 199, 
+        "promotion" : true, 
+        "image" : "cafe_machine.jpg"
+    },
+    {
+        "id" : 16, 
+        "designation" : "oven", 
+        "categorie" : "maison", 
+        "modele" : "Samsung Smart Oven", 
+        "prix" : 699, 
+        "promotion" : false, 
+        "image" : "oven.jpg"
+    },
+    {
+        "id" : 17, 
+        "designation" : "frige", 
+        "categorie" : "maison", 
+        "modele" : "LG InstaView", 
+        "prix" : 1599, 
+        "promotion" : true, 
+        "image" : "frige.jpg"
+    },
+    {
+        "id" : 18, 
+        "designation" : "chair", 
+        "categorie" : "mobilier", 
+        "modele" : "Ikea Markus", 
+        "prix" : 199, 
+        "promotion" : false, 
+        "image" : "chair.jpg"
+    },
+    {
+        "id" : 19, 
+        "designation" : "desk", 
+        "categorie" : "mobilier", 
+        "modele" : "Ikea Bekant", 
+        "prix" : 299, 
+        "promotion" : true, 
+        "image" : "desk.jpg"
+    },
+    {
+        "id" : 20, 
+        "designation" : "bed", 
+        "categorie" : "mobilier",
+        "modele" : "Ikea Malm", 
+        "prix" : 399, 
+        "promotion" : false, 
+        "image" : "bed.jpg"
+    },
+    {
+        "id" : 21, 
+        "designation" : "table", 
+        "categorie" : "mobilier", 
+        "modele" : "Ikea Lack", 
+        "prix" : 49, 
+        "promotion" : true, 
+        "image" : "table.jpg"
+    },
+    {
+        "id" : 22,
+        "designation" : "sofa", 
+        "categorie" : "mobilier", 
+        "modele" : "Ikea Ektorp", 
+        "prix" : 599, 
+        "promotion" : false, 
+        "image" : "sofa.jpg"
+    },
+    {
+        "id" : 23, 
+        "designation" : "washing machine", 
+        "categorie" : "maison", 
+        "modele" : "Bosch Series 6", 
+        "prix" : 699, 
+        "promotion" : true, 
+        "image" : "washing_machine.jpg"
+    },
+    {
+        "id" : 24, 
+        "designation" : "dish washer", 
+        "categorie" : "maison", 
+        "modele" : "Bosch Series 4", 
+        "prix" : 599, 
+        "promotion" : false, 
+        "image" : "dish_washer.jpg"
+    },
+    {
+        "id" : 25, 
+        "designation" : "stereo", 
+        "categorie" : "audio", 
+        "modele" : "Sony CMT-SBT100", 
+        "prix" : 199, 
+        "promotion" : true, 
+        "image" : "stereo.jpg"
+    },
+    {
+        "id" : 26, 
+        "designation" : "applewatch", 
+        "categorie" : "technologie", 
+        "modele" : "Apple Watch Series 6", 
+        "prix" : 429, 
+        "promotion" : false,
+        "image" : "applewatch.png"
+    },
+    {
+        "id" : 27, 
+        "designation" : "modem", 
+        "categorie" : "technologie", 
+        "modele" : "Netgear Nighthawk", 
+        "prix" : 299, 
+        "promotion" : true, 
+        "image" : "modem.jpg"
+    },
+    {
+        "id" : 28, 
+        "designation" : "projector", 
+        "categorie" : "technologie", 
+        "modele" : "Epson Home Cinema", 
+        "prix" : 599, 
+        "promotion" : false, 
+        "image" : "projector.jpg"
+    },
+    {
+        "id" : 29,
+        "designation" : "tv", 
+        "categorie" : "technologie", 
+        "modele" : "Samsung QLED", 
+        "prix" : 1199, 
+        "promotion" : true, 
+        "image" : "tv.jpg"
+    },
+    {
+        "id" : 30, 
+        "designation" : "micro-waves", 
+        "categorie" : "maison", 
+        "modele" : "Panasonic NN-SN966S", 
+        "prix" : 259, 
+        "promotion" : false, 
+        "image" : "micro_waves.jpg"},
+    {
+        "id" : 31, 
+        "designation" : "bedside table", 
+        "categorie" : "mobilier", 
+        "modele" : "Ikea Hemnes", 
+        "prix" : 69, 
+        "promotion" : true, 
+        "image" : "bedside_table.jpg"
+    },
+    {
+        "id" : 32, 
+        "designation" : "instant camera", 
+        "categorie" : "photo", 
+        "modele" : "Fujifilm Instax Mini", 
+        "prix" : 89, 
+        "promotion" : false, 
+        "image" : "instant_camera.jpg"
+    },
+    {
+        "id" : 33, 
+        "designation" : "smart speaker", 
+        "categorie" : "audio", 
+        "modele" : "Amazon Echo", 
+        "prix" : 99, 
+        "promotion" : true, 
+        "image" : "smart_speaker.jpg"
+    }
+]
